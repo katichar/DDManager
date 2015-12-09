@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataconfig> 
+	<server> 
+		 <logserver>Y</logserver> 
+		 <loglevel>1</loglevel> 
+		 <filepath>c:\</filepath> 
+		 <mailhost>smtp.sina.com</mailhost> 
+		 <mailuser>dmp_ee@sina.com</mailuser> 
+		 <mailpassword>ee123456</mailpassword> 
+		 <mailrecv>451836199@qq.com</mailrecv> 
+	</server>		 
+	<dbdata> 
+		 <dbuser>root</dbuser> 
+		 <dbpassword>YWRtaW4=</dbpassword> 
+		 <dbdriver> com.mysql.jdbc.Driver </dbdriver> 
+		 <dburl> jdbc:mysql://127.0.0.1:3306/dmp?useUnicode=true&amp;characterEncoding=utf8</dburl> 
+	</dbdata> 
+</dataconfig> 
